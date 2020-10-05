@@ -9,7 +9,8 @@
 [![Quality Score](https://img.shields.io/scrutinizer/g/sergiodanilojr/taco.svg?style=flat-square)](https://scrutinizer-ci.com/g/sergiodanilojr/taco)
 [![Total Downloads](https://img.shields.io/packagist/dt/elephpant/taco.svg?style=flat-square)](https://packagist.org/packages/elephpant/taco)
 
-###### Taco is a simple way to extract the currency situation converted for CURRENCY REAL (BRL), either on the current day or in previous periods, as well as at defined intervals. Contains a vast collection of coins to get your status for REAL (BRL).
+###### 
+With TACO it is possible to obtain nutritional data from a wide collection of foods through the API of the same name. Its use is very simple.
 
 Com o TACO é possível obter dados nutricionais de uma vasta coleção de alimentos através da API de mesmo nome. Seu uso é muito simples.
 
