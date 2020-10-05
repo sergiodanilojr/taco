@@ -77,7 +77,7 @@ $timeout = $taco->setTimeout(3)
 
 ## Thanks TACO-Food-API for yours simple and intuitives APIs and Documentation
 
-[APIAwesome - API de Moedas](https://taco-food-api.herokuapp.com/)
+[TACO API](https://taco-food-api.herokuapp.com/)
 
 
 ## Contributing
